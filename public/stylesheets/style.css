@@ -1,0 +1,7 @@
+.contact-show:not([href]):not([tabindex]) {
+  color: #fff;
+  cursor: pointer;
+}
+.contact-show:not([href]):not([tabindex]):hover {
+  color: #E91E63;
+}
